@@ -1,5 +1,7 @@
 # Foundry Deobfuscator
 
+More info: http://catnip.fyi/posts/foundry-p1/
+
 Foundryvtt (https://foundryvtt) < 0.8.0 deobfuscator. other javascript-obfuscator (https://www.npmjs.com/package/javascript-obfuscator) projects prolly work as well.
 
 ## Usage
